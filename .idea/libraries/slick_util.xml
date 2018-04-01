@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="slick-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/slick-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Java-Shapefile-Parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/opencsv-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-lang3-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

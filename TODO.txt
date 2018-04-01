@@ -1,0 +1,30 @@
+ISU Game
+
+Title screen:
+	[ ] Logo at boot
+	[ ] Find a different title screen font
+	[ ] Continue, load, new game & options
+	[x] Background shows, then text shows soon after
+	[ ] Menu for loading a save file
+	[ ] Fake loading screen
+	[ ] Options menu
+
+UI:
+	[x] Better temperature & time
+	[x] Hunger, hydration & sleep
+	[x] Stats screen
+	[ ] Radio screen
+	[ ] help screen (controls)
+	[ ] options screen
+
+Level:
+	[ ] Finish Hesperia Village
+	[ ] 
+	
+Music:
+	[ ] Game Over music
+	[ ] sound effect for back
+	
+Options:
+	[ ] enable / disable sounds
+	[ ] enable / disable music
